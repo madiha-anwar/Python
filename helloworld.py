@@ -7,4 +7,5 @@ Original file is located at
     https://colab.research.google.com/drive/1iNCSPtsRvtWi3nvNt7ugebnsYSg_90r4
 """
 
-print("Git is awesome")
+data = int(input("Enter your age"))
+print(data)
